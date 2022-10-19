@@ -5,7 +5,7 @@
 
         public string GetData()
         {
-            return null;
+            return "TestData";
         }
 
     }
